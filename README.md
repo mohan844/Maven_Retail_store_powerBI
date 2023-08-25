@@ -1,5 +1,5 @@
 # Maven_Retail_store_powerBI
-Creating a dynamic interactive dashboard involves multiple steps, from ETL (Extract, Transform, Load) to designing the dashboard itself using DAX functions. Here's a step-by-step guide on how to achieve this and then expand it into a GitHub repository:
+Created a dynamic interactive dashboard involves multiple steps, from ETL (Extract, Transform, Load) to designing the dashboard itself using DAX functions. Here's a step-by-step guide on how to achieve this and then expand it into a GitHub repository:
 
 Step 1: ETL Process
 Extract Data: Obtain your data from various sources. In your case, you have 5 lookup tables and 2 data tables.
